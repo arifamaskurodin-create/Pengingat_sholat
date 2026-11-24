@@ -1,0 +1,6 @@
+{
+  "name": "PENGINGAT SHOLAT",
+  "description": "A calm Royal Navy alarm and prayer reminder app with high-legibility tabular numerals, an integrated time picker, and reliable scheduled alarms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
